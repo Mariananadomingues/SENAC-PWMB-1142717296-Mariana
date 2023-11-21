@@ -22,7 +22,6 @@ Bem-vindo à documentação oficial da LogisTrack, a principal plataforma de ges
     - Escolha de horário pelo cliente.
     - Maior flexibilidade no processo de entrega.
 
-- Visão de Negócio
 - Missão: Facilitar o fluxo eficiente de mercadorias, impulsionando o sucesso dos clientes através de soluções logísticas inteligentes.
 - Valores: Inovação, Eficiência, Confiança, Sustentabilidade, Compromisso com o Cliente.
 - Visão: Ser reconhecida como a principal plataforma de gestão de logística e entregas, pioneira em soluções inovadoras.
